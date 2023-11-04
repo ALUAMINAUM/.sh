@@ -1,0 +1,33 @@
+# pkg update && pkg upgrade
+
+
+# pkg install git
+*.(y/n) -y
+
+# pkg install python
+*. (y/n) -y
+
+# git clone
+
+# git clone https://github.com/ALUAMINAUM/ddos-freefire 
+*ddos-freefire 
+
+#cd ddos-freefire 
+ddos-freefire$
+
+# python2 ddos-freefire.sh
+*. 
+____  ____   ___  ____    _____ ____  _____ _____ _____ ___ ____  _____
+|  _ \|  _ \ / _ \/ ___|  |  ___|  _ \| ____| ____|  ___|_ _|  _ \| ____|
+| | | | | | | | | \___ \  | |_  | |_) |  _| |  _| | |_   | || |_) |  _|
+| |_| | |_| | |_| |___) | |  _| |  _ <| |___| |___|  _|  | ||  _ <| |___
+|____/|____/ \___/|____/  |_|   |_| \_\_____|_____|_|   |___|_| \_\_____|
+______________________________________
+| CREATE BY : JAVA ANAK SOLEH
+| VERSION : 99.99.999
+| DDOS ATTACK: UNTUK DOWN SERVER EPEP
+| THANK TO : TEAM CYBER GLAGAH KULONPROGO 
+|_____________________________________
+
+[01] DDOS ATTACK SERVER FREE FIRE
+[02] DDOS ATTACK AKUN EPEP 
