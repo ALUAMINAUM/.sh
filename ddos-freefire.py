@@ -21,7 +21,7 @@ os.system("clear")
 os.system("figlet DDOS FREEFIRE")
 print
 print "CREATE SCRIPT  : VANNEZX 666"
-print "NOMOR WHATSAPP : https://www.youtube.com/channel/UCCgy7i_A5yhAEdY86rPOinA"
+print "NOMOR WHATSAPP : +6285171197674"
 print "WEBSITE TEAM   : https://atryxzofchuman.com"
 print "KATA KATA      : CINTA SEMENTARA EPEP SELAMANYA"
 print
