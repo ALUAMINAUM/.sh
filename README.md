@@ -10,6 +10,7 @@ git clone https://github.com/ALUAMINAUM/ddos-freefire
 cd ddos-freefire
 
 chmod +x ddos-freefire.py
+
 python ddos-freefire.py
 
 
